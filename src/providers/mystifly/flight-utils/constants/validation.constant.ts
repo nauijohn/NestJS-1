@@ -1,0 +1,13 @@
+export const preferenceLevel = ['Preferred', 'Restricted'];
+export const passengerType = ['ADT', 'CHD', 'INF'];
+export const maxStopsQuantity = ['Direct', 'OneStop', 'All'];
+export const cabinPreference = ['Y', 'S', 'C', 'F'];
+export const airTripType = ['OneWay', 'Return', 'OpenJaw', 'Circle'];
+export const target = ['Test', 'Production'];
+export const pricingSourceType = ['Public', 'Private', 'All'];
+export const requestOptions = ['Fifty', 'Hundred', 'TwoHundred'];
+export const gender = ['M', 'F', 'U'];
+export const passengerTitle = ['Mr', 'Mrs', 'Ms', 'Miss', 'Mstr'];
+export const seatPreferences = ['W', 'Any'];
+export const mealPreference = ['Any'];
+export const ssrCode = ['Any'];
